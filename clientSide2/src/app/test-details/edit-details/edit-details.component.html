@@ -1,0 +1,24 @@
+<div class="container">
+    <h3>CHANGE DATA FOR ATHLETE</h3>
+    <form class="container" [formGroup]="EditForm" (ngSubmit)="update()">
+ 
+    <input type="hidden" id="athleteId" value="{{testDetails.athleteId}}" class="form-control"/>
+     <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" id="name" value="{{testDetails.athleteName}}" class="form-control" formControlName="athleteName"/>
+     </div>
+ 
+     <diV  class="form-group">
+        <label for="distance">Distance(meter)</label>
+        <input type="text" id="distance" value="{{testDetails.distance}}" class="form-control" formControlName="distance"/>
+     </diV>   
+ 
+     <div class="form-group">
+         <a class="btn btn-primary" routerLink="/deleteAthlete/{{testDetails.athleteId}}">DELETE ATHLETE FROM TEST</a>
+     </div>
+ 
+     <input type="submit" class="btn btn-primary" value="Save" />
+     
+    </form>
+ </div>
+ 

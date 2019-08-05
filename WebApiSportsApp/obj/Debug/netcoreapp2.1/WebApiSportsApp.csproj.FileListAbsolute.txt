@@ -1,0 +1,14 @@
+C:\Users\rahulmondal\source\repos\WebApiSportsApp\WebApiSportsApp\bin\Debug\netcoreapp2.1\WebApiSportsApp.deps.json
+C:\Users\rahulmondal\source\repos\WebApiSportsApp\WebApiSportsApp\bin\Debug\netcoreapp2.1\WebApiSportsApp.runtimeconfig.json
+C:\Users\rahulmondal\source\repos\WebApiSportsApp\WebApiSportsApp\bin\Debug\netcoreapp2.1\WebApiSportsApp.runtimeconfig.dev.json
+C:\Users\rahulmondal\source\repos\WebApiSportsApp\WebApiSportsApp\bin\Debug\netcoreapp2.1\WebApiSportsApp.dll
+C:\Users\rahulmondal\source\repos\WebApiSportsApp\WebApiSportsApp\obj\Debug\netcoreapp2.1\WebApiSportsApp.csprojAssemblyReference.cache
+C:\Users\rahulmondal\source\repos\WebApiSportsApp\WebApiSportsApp\obj\Debug\netcoreapp2.1\WebApiSportsApp.csproj.CoreCompileInputs.cache
+C:\Users\rahulmondal\source\repos\WebApiSportsApp\WebApiSportsApp\obj\Debug\netcoreapp2.1\WebApiSportsApp.RazorAssemblyInfo.cache
+C:\Users\rahulmondal\source\repos\WebApiSportsApp\WebApiSportsApp\obj\Debug\netcoreapp2.1\WebApiSportsApp.RazorAssemblyInfo.cs
+C:\Users\rahulmondal\source\repos\WebApiSportsApp\WebApiSportsApp\obj\Debug\netcoreapp2.1\WebApiSportsApp.AssemblyInfoInputs.cache
+C:\Users\rahulmondal\source\repos\WebApiSportsApp\WebApiSportsApp\obj\Debug\netcoreapp2.1\WebApiSportsApp.AssemblyInfo.cs
+C:\Users\rahulmondal\source\repos\WebApiSportsApp\WebApiSportsApp\obj\Debug\netcoreapp2.1\WebApiSportsApp.RazorTargetAssemblyInfo.cache
+C:\Users\rahulmondal\source\repos\WebApiSportsApp\WebApiSportsApp\bin\Debug\netcoreapp2.1\WebApiSportsApp.pdb
+C:\Users\rahulmondal\source\repos\WebApiSportsApp\WebApiSportsApp\obj\Debug\netcoreapp2.1\WebApiSportsApp.dll
+C:\Users\rahulmondal\source\repos\WebApiSportsApp\WebApiSportsApp\obj\Debug\netcoreapp2.1\WebApiSportsApp.pdb

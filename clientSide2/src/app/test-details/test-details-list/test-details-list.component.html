@@ -1,0 +1,39 @@
+<div class="container">
+        
+    <h3>{{Test.testType | uppercase}} TEST D : {{Test.date | date: 'dd/MM/yyyy' }}</h3>
+        
+        <table class="table table-borderless">
+            <thead>
+                <tr>
+                    <th>
+                        Ranking
+                    </th>
+                    <th>
+                        Distance (meter)
+                    </th>
+                    <th>
+                        Fitness Ranking
+                    </th>
+                  
+                </tr>
+            </thead>
+            <tbody>
+                <div *ngIf="!TestDetails">
+                    <h4>No Test Details is present Click Add new to add Data.</h4>
+                </div>
+                <tr *ngFor = "let td of TestDetails" (click) = "onClick(td.athleteId)">
+                    <td>{{td.athleteName}}</td>
+                    <td>{{td.distance}}</td>
+                    <td>{{td.myProperty}}</td>
+                </tr>
+            </tbody>
+        </table>
+        <div>
+        <a class="btn btn-primary" routerLink="/addAthlete/{{Id}}">ADD NEW ATHLETE </a>
+        </div>
+        <br>
+        <div>
+        <a class="btn btn-primary" routerLink="/deleteTest/{{Id}}">DELETE TEST </a>
+        </div>
+</div>
+        
